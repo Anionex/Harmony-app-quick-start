@@ -1,0 +1,8 @@
+.height(19)
+.width('100%')
+.fontSize(14)
+.textAlign(TextAlign.Start)
+.textOverflow({ overflow: TextOverflow.Ellipsis })
+.maxLines(1)
+.fontWeight(400)
+.margin({ top: 4 })

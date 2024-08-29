@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_DLP_college_kechengmdpi</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="课程学习phone备份" transform="translate(-28.000000, -565.000000)">
+            <g id="编组-2" transform="translate(16.000000, 332.000000)">
+                <g id="编组-3备份-2" transform="translate(0.000000, 48.000000)">
+                    <g id="ic_DLP_college_kecheng" transform="translate(12.000000, 185.000000)">
+                        <rect id="矩形" x="0" y="0" width="16" height="16"></rect>
+                        <path d="M2,12.6666667 L2,3.33333333 C2,2.22876383 2.8954305,1.33333333 4,1.33333333 L14,1.33333333 L14,1.33333333 L14,14.6666667" id="路径" stroke="#000000" stroke-linejoin="round"></path>
+                        <path d="M4,10.6666667 L14,10.6666667 L14,10.6666667 L14,14.6666667 L4,14.6666667 C2.8954305,14.6666667 2,13.7712361 2,12.6666667 C2,11.5620972 2.8954305,10.6666667 4,10.6666667 Z" id="矩形" stroke="#000000" stroke-linejoin="round"></path>
+                        <line x1="5.33333333" y1="4.66666667" x2="10.6666667" y2="4.66666667" id="路径-13" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="5.33333333" y1="7.33333333" x2="9.33333333" y2="7.33333333" id="路径-13" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

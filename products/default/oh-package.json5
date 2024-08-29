@@ -1,0 +1,13 @@
+{
+  "name": "default",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@ohos/learning": "file:../../features/learning", // 先定位根目录，再定位features
+    "@ohos/map": "file:../../features/map",
+    "@ohos/quickstart": "file:../../features/quickstart",
+  }
+}
